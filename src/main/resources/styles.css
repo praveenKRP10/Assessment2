@@ -1,0 +1,7 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#drawing-canvas {
+    border: 1px solid black;
+}
